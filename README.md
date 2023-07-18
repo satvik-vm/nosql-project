@@ -10,3 +10,5 @@
 2. cd into backend directory and do npm start to start the backend.
 3. cd into front\_end directory and do npm start to start the front end.
 4. Open localhost:19006 to view the front end.
+
+This project was done by Satvik Verma,Shashank Shekhar and Manan Patel.
